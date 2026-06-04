@@ -76,7 +76,7 @@ Make sure you have **Python 3.8+** installed.
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/MShahBytes/Crop_Yield_Prediction.git
-   cd Crop-Yield-Prediction
+   cd Crop_Yield_Prediction
    ```
 
 2. **Create and activate a virtual environment**:
